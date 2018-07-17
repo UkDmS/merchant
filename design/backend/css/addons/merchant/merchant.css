@@ -1,0 +1,27 @@
+.main-merchant{
+    display: block;
+    margin: 0 auto;
+    z-index: 500;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin-top: 79px;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.main-merchant input[type="text"]{
+    width: 250px;
+    margin-right: 25px;
+    height: 30px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #646464;
+    outline: none;
+}
+.main-merchant label{
+      display: inline-block;
+}
